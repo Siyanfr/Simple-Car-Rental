@@ -1,10 +1,8 @@
 # Simple-Car-Rental
-**Take note that this code was written during my first year at school when I had little experience in coding.**
 
-Overview
 This code is a simple car rental application that allows users to rent and return cars. The application provides a menu-driven interface where users can choose to rent a car, return a car, or exit the program. The application keeps track of available cars, their rental details, and user information.
 
-Features
+# Features
 Main Menu: Users can navigate through options to rent a car, return a car, or exit the application.
 Car Selection: Users can choose from different categories of cars (Sports, Family, Utility, Electric) and view available options.
 Personal Details Input: Users must enter their personal details, including name, age, and rental duration.
